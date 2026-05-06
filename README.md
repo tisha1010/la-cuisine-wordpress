@@ -31,10 +31,10 @@ Custom modern restaurant website built using WordPress + Blocksy Child Theme.
 ### Homepage
 ![Homepage](homepage.png)
 
-### Pricing Page
+### menu Page
 ![Menu](menu.png)
 
-### Mobile Responsive
+### Contact Us page
 ![Contact Us](contactus.png)
 
 ---
