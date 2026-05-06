@@ -29,13 +29,13 @@ Custom modern restaurant website built using WordPress + Blocksy Child Theme.
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](homepage.png)
 
 ### Pricing Page
-![Pricing](screenshots/pricing.png)
+![Menu](menu.png)
 
 ### Mobile Responsive
-![Mobile](screenshots/mobile.png)
+![Contact Us](contactus.png)
 
 ---
 
